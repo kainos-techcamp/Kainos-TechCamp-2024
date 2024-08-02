@@ -1,0 +1,17 @@
+body {
+    background-color: cornflowerblue;
+}
+
+h1 {
+    font-family: sans-serif;
+    color: darkblue;
+    /*
+    This margin element below moves all elements right by 50px!
+    This is just 1 example of how we can change the position of elements
+    */
+    /*margin: 50px;*/ 
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
